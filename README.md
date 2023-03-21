@@ -1,3 +1,5 @@
+![raindrops](https://user-images.githubusercontent.com/44240533/226491648-05f8e564-1125-46ab-a061-4406cbf29213.svg)
+
 # Raindrops
 
 Welcome to Raindrops on Exercism's Java Track.
